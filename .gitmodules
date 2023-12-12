@@ -1,0 +1,6 @@
+[submodule "src/PackageA"]
+	path = src/PackageA
+	url = git@github.com:Thanappu/PackageA.git
+[submodule "src/PackageB"]
+	path = src/PackageB
+	url = git@github.com:Thanappu/PackageB.git
